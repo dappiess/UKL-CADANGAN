@@ -1,0 +1,32 @@
+.btn-primary {
+    color: #fff;
+    margin-left: 230px;
+    margin-right: -230px;
+    background: linear-gradient(90deg,#8cb6ff,#3e5dea) !important;
+    border-color: #8ca7ff !important;   
+}
+
+.form-control{
+        margin-left: 230px;
+        width: 50px;
+        height: 50px;
+}
+
+.text-1{
+    color: #294cb6 !important;
+}
+
+.icon-img{
+    width: 90px;
+    height: 90px;
+    margin-left: 405px;
+    margin-top: 40px;
+    margin-bottom: 2rem;
+}
+
+.w-100{
+    width: 450px;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
